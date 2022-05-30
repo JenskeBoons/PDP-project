@@ -45,7 +45,11 @@ html, body{
     font-family: 'Orbitron', sans-serif;
     top: 65%;
     left: 80%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -80%);
+}
+
+.xsbtn{
+    margin: auto;
 }
 
 .btn-primary {
@@ -58,3 +62,5 @@ html, body{
     background-color: darkblue;
     border-color: #8ad3d3;
 }
+
+
